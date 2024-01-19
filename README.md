@@ -1,4 +1,4 @@
-# Potato Disease Classification
+# A deep learning framwork of plant disease detection
 
 ## Setup for Python:
 
